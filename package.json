@@ -1,6 +1,6 @@
 {
   "name": "@prometheantv/videojs-promethean",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Promethean TV SDK Plugin for VideoJS Players",
   "main": "dist/videojs-promethean.cjs.js",
   "module": "dist/videojs-promethean.es.js",
